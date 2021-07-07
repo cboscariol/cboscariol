@@ -1,3 +1,5 @@
+<img src='./banner.png'>
+
 <h1 align="center">Olá, meu nome é Camila</h1>
 <h3 align="center">Pessoa desenvolvedora front-end em formação</h3>
 
