@@ -1,13 +1,14 @@
-<img src='./banner.png'>
+![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/74324194/140319709-80a9d74a-3df1-40b9-a25a-5df5b10bbde5.png)
+
 
 <h1 align="center">Olá, meu nome é Camila</h1>
-<h3 align="center">Pessoa desenvolvedora front-end em formação</h3>
+<h3 align="center">Desenvolvedora front-end Jr.</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+Venho de uma transição de carreira e nesse momento busco uma empresa que possa me apoiar e auxiliar nesse processo de crescimento, que possamos ter trocas de conhecimentos e evolução mútua e colaborativa. Acredito que inovações cada vez mais tecnologicas tendem a trazer muitos benefícios e oprtunidades para as pessoas e quero contribuir para fazer parte dessa revolução.
 
-- 👨‍💻 All of my projects are available at [https://github.com/cboscariol](https://github.com/cboscariol)
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui: [https://github.com/cboscariol](https://github.com/cboscariol)
 
-- 📫 How to reach me **caamila.boscariol@gmail.com**
+- 📫 Entre em contato: **caamila.boscariol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
