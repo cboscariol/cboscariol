@@ -4,7 +4,8 @@
 <h1 align="center">Olá, meu nome é Camila</h1>
 <h3 align="center">Desenvolvedora front-end Jr.</h3>
 
-Venho de uma transição de carreira e nesse momento busco uma empresa que possa me apoiar e auxiliar nesse processo de crescimento, que possamos ter trocas de conhecimentos e evolução mútua e colaborativa. Acredito que inovações cada vez mais tecnologicas tendem a trazer muitos benefícios e oprtunidades para as pessoas e quero contribuir para fazer parte dessa revolução.
+Venho de uma transição de carreira e a area de tecnologia e desenvolvimento tem sido um mundo totalmente novo a ser explorado, todo dia um novo desafio e objetivos a serem conquistados.
+Acredito que inovações cada vez mais tecnologicas tendem a trazer muitos benefícios e oportunidades para as pessoas e quero contribuir para fazer parte dessa revolução.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui: [https://github.com/cboscariol](https://github.com/cboscariol)
 
