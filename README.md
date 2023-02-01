@@ -1,8 +1,8 @@
 ![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/74324194/140319709-80a9d74a-3df1-40b9-a25a-5df5b10bbde5.png)
 
 
-<h1 align="center">Olá, meu nome é Camila</h1>
-<h3 align="center">Desenvolvedora front-end Jr.</h3>
+<h1 align="center">Hi, you can call me Camis</h1>
+<h3 align="center">Software developer</h3>
 
 In 2020, in the middle of a pandemic, I started my career as a software developer.
 It was a big life changing for me, long days (and nights) studying to get my first job in this amazing area.
