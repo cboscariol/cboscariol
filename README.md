@@ -4,16 +4,19 @@
 <h1 align="center">Olá, meu nome é Camila</h1>
 <h3 align="center">Desenvolvedora front-end Jr.</h3>
 
-Venho de uma transição de carreira e a area de tecnologia e desenvolvimento tem sido um mundo totalmente novo a ser explorado, todo dia um novo desafio e objetivos a serem conquistados.
-Acredito que inovações cada vez mais tecnologicas tendem a trazer muitos benefícios e oportunidades para as pessoas e quero contribuir para fazer parte dessa revolução.
+In 2020, in the middle of a pandemic, I started my career as a software developer.
+It was a big life changing for me, long days (and nights) studying to get my first job in this amazing area.
+Today, I've been working as a React developer at Bees (ab-inbev), and using some technologies as: typescript · stitches · Jest/RTL · Segment.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui: [https://github.com/cboscariol](https://github.com/cboscariol)
+I believe we can make a better world through technology.
 
-- 📫 Entre em contato: **caamila.boscariol@gmail.com**
+- 👨‍💻 All my public project are here: [https://github.com/cboscariol](https://github.com/cboscariol)
+
+- 📫 Contact: **caamila.boscariol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/camila-boscariol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camila-boscariol/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/camila-boscariol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/camila-boscariol/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
