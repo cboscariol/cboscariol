@@ -1,4 +1,4 @@
-![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/74324194/140319709-80a9d74a-3df1-40b9-a25a-5df5b10bbde5.png)
+![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/cboscariol/cboscariol/assets/74324194/50321f49-ce91-4f02-aa9f-c703785a37ab)
 
 
 <h1 align="center">Hi, you can call me Camis</h1>
